@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+main{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  gap: 10px;
+}
+input{
+  outline: none;
+  cursor: pointer;
+}
+
+.box{
+  text-align:center;
+  font-size: 20px;
+}
+button{
+  cursor: pointer;
+}
